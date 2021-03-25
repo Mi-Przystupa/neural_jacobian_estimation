@@ -4,6 +4,7 @@ This repository contains all the code we used in our submission to ICRA 2021
 
 This repository is "as is" for now, but will be updated coming soon to be a bit more readable and easier to use for those interested.
 
+An important thing is we started this project by copying from the [Ros Kortex](https://github.com/Kinovarobotics/ros_kortex) example folders. 
 
 # Stuff from Old Repository
 
